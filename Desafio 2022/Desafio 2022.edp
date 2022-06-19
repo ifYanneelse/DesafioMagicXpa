@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <_Project>
+    <ProjectName val="Desafio 2022"/>
+    <VCProjectID val="0"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <VCUseGitPlugin val="N"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{8E7A3166-92C6-49D0-9641-569348DFB213}"/>
+    <Version min="13020.10"/>
+    <SourceVersion val="14072.00"/>
+  </_Project>
+
+</Application>

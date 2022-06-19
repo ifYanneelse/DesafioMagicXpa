@@ -1,0 +1,275 @@
+﻿ <403811425131246976> 18/05/2022 19:20:41.295     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <403811425131246976> 18/05/2022 19:20:41.669     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <403811425131246976> 18/05/2022 19:20:42.661     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <403811425131246976> 18/05/2022 19:20:43.231     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <403811425131246976> 18/05/2022 19:20:44.520     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <403811425131246976> 18/05/2022 19:20:45.868     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <403811425131246976> 18/05/2022 19:20:46.397     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <403811425131246976> 18/05/2022 19:20:46.853     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <403811425131246976> 18/05/2022 19:20:48.578     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <342269197253973568> 19/05/2022 11:07:56.586     [Error  ] - Insira um nome
+ <342269197253973568> 19/05/2022 11:07:58.249     [Error  ] - Insira um nome
+ <342269197253973568> 19/05/2022 11:08:00.786     [Error  ] - Insira um nome
+ <342269197253973568> 19/05/2022 11:08:15.307     [Error  ] - Insira um nome
+ <342269197253973568> 19/05/2022 11:08:20.105     [Error  ] - Insira um nome
+ <342269197253973568> 19/05/2022 11:08:23.439     [Error  ] - Insira um nome
+ <342269197253973568> 19/05/2022 11:08:25.620     [Error  ] - Insira um nome
+ <342269197253973568> 19/05/2022 11:08:29.979     [Error  ] - Insira um nome
+ <342269197253973568> 19/05/2022 11:08:46.446     [Error  ] - Insira um nome
+ <342269197253973568> 19/05/2022 11:08:47.363     [Error  ] - Insira um nome
+ <342269197253973568> 19/05/2022 11:08:48.734     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:25.778     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:27.866     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:30.458     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:34.820     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:37.277     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:38.834     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:39.441     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:40.022     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:40.512     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:41.087     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:41.605     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:42.148     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:42.736     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:43.404     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:44.077     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:44.889     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:45.490     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:46.105     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:10:47.186     [Error  ] - Insira um nome
+ <311995846218543936> 19/05/2022 11:12:41.257     [Error  ] - [MgGui.dll] System.NullReferenceException : 
+   em com.magicsoftware.unipaas.gui.low.GuiUtilsBase.getTopLevelFormForChildWindow(Form form)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.activateForm(GuiCommand guiCommand)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+Referência de objeto não definida para uma instância de um objeto., Program: "".
+ <311995846218543936> 19/05/2022 11:12:51.185     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(Exception ex)
+   em com.magicsoftware.unipaas.gui.low.GuiCommandQueueBase.Run()
+   em System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   em System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   em System.Delegate.DynamicInvokeImpl(Object[] args)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   em System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   em System.Windows.Forms.Form.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em com.magicsoftware.unipaas.gui.low.GUIMain.messageLoop()
+   em com.magicsoftware.unipaas.Manager.MessageLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteMainThread(String args)
+   em com.magicsoftware.rte.RTEmanager.Main(), Program: "".
+ <153443933448878368> 19/05/2022 11:13:50.640     [Error  ] - Failed to open, data source: Setor, Program: "Pesquisa Pessoas".
+ <406216568067110784> 19/05/2022 11:52:17.387     [Error  ] - Failed to open, data source: Setor, Program: "Pesquisa Pessoas".
+ <26980299251793356> 19/05/2022 11:55:56.602     [Error  ] - Insira um nome
+ <26980299251793356> 19/05/2022 11:55:58.780     [Error  ] - Insira um nome
+ <26980299251793356> 19/05/2022 11:56:01.170     [Error  ] - Insira um nome
+ <534817557062355264> 19/05/2022 11:57:00.674     [Error  ] - Insira um nome
+ <534817557062355264> 19/05/2022 11:57:02.411     [Error  ] - Insira um nome
+ <534817557062355264> 19/05/2022 11:57:13.077     [Error  ] - Insira um nome
+ <534817557062355264> 19/05/2022 11:57:53.444     [Error  ] - Insira um nome
+ <534817557062355264> 19/05/2022 11:58:09.194     [Error  ] - Insira um nome
+ <534817557062355264> 19/05/2022 11:58:12.122     [Error  ] - Insira um nome
+ <441131711741661760> 19/05/2022 11:59:15.519     [Error  ] - Insira um nome
+ <441131711741661760> 19/05/2022 11:59:19.182     [Error  ] - Insira um nome
+ <441131711741661760> 19/05/2022 11:59:22.108     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <441131711741661760> 19/05/2022 11:59:24.068     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <441131711741661760> 19/05/2022 11:59:24.559     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <441131711741661760> 19/05/2022 11:59:24.815     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <441131711741661760> 19/05/2022 11:59:25.290     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <441131711741661760> 19/05/2022 11:59:31.868     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <441131711741661760> 19/05/2022 11:59:33.819     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <441131711741661760> 19/05/2022 11:59:35.274     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <441131711741661760> 19/05/2022 11:59:37.210     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <441131711741661760> 19/05/2022 11:59:38.258     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <441131711741661760> 19/05/2022 11:59:38.924     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <441131711741661760> 19/05/2022 11:59:39.242     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <441131711741661760> 19/05/2022 11:59:49.790     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <441131711741661760> 19/05/2022 11:59:55.118     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <441131711741661760> 19/05/2022 11:59:56.264     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <441131711741661760> 19/05/2022 11:59:57.076     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <368973309924528512> 19/05/2022 12:02:59.020     [Error  ] - Insira um nome
+ <368973309924528512> 19/05/2022 12:03:03.806     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <368973309924528512> 19/05/2022 12:03:04.670     [Error  ] - Duplicate index, data source: Pessoa, Program: "Cadastro Pessoas".
+ <560842057342210880> 19/05/2022 12:04:18.466     [Error  ] - Insira um nome
+ <70577556446997432> 19/05/2022 13:43:11.442     [Error  ] - Insira um nome
+ <70577556446997432> 19/05/2022 13:43:17.853     [Error  ] - Insira um nome
+ <70577556446997432> 19/05/2022 13:43:26.602     [Error  ] - Insira um nome
+ <70577556446997432> 19/05/2022 13:43:39.107     [Error  ] - Insira um nome
+ <70577556446997432> 19/05/2022 13:43:40.960     [Error  ] - Insira um nome
+ <348773899898818560> 19/05/2022 13:47:23.597     [Error  ] - Failed to open, data source: Setor, Program: "Browse - Setor".
+ <172377815828344704> 19/05/2022 13:53:35.824     [Error  ] - Failed to open, data source: Setor, Program: "Browse - Setor".
+ <300019063603066112> 19/05/2022 13:58:56.688     [Error  ] - Failed to open, data source: Setor, Program: "Browse - Setor".
+ <263160925950827648> 19/05/2022 14:13:44.041     [Error  ] - Insira um nome
+ <263160925950827648> 19/05/2022 14:14:53.188     [Error  ] - Insira um nome
+ <329982884751619520> 19/05/2022 16:01:14.710     [Error  ] - Insira uma descrição
+ <403322025374332544> 19/05/2022 16:07:31.823     [Error  ] - Insira uma descrição
+ <301562007790388032> 19/05/2022 16:23:22.497     [Error  ] - Insira uma descrição
+ <301562007790388032> 19/05/2022 16:24:52.152     [Error  ] - Insira uma descrição
+ <116754149208282944> 19/05/2022 16:25:45.393     [Error  ] - Insira um nome
+ <258512536785682240> 19/05/2022 16:28:52.737     [Error  ] - Insira uma descrição
+ <258512536785682240> 19/05/2022 16:29:04.184     [Error  ] - Insira uma descrição
+ <46881683069539016> 20/05/2022 12:51:42.483     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <46881683069539016> 20/05/2022 12:51:48.374     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <46881683069539016> 20/05/2022 12:51:48.933     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <46881683069539016> 20/05/2022 12:51:53.474     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <46881683069539016> 20/05/2022 12:51:53.898     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <46881683069539016> 20/05/2022 12:51:54.300     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <46881683069539016> 20/05/2022 12:51:59.467     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <46881683069539016> 20/05/2022 12:52:00.633     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <46881683069539016> 20/05/2022 12:52:01.798     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <46881683069539016> 20/05/2022 12:52:02.548     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <46881683069539016> 20/05/2022 12:52:05.579     [Error  ] - Insira uma descrição
+ <46881683069539016> 20/05/2022 12:52:12.585     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <46881683069539016> 20/05/2022 12:52:13.601     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <46881683069539016> 20/05/2022 12:52:14.251     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <46881683069539016> 20/05/2022 12:52:14.594     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <46881683069539016> 20/05/2022 12:52:14.790     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <46881683069539016> 20/05/2022 12:52:23.471     [Error  ] - Insira uma descrição
+ <275633851120083360> 20/05/2022 12:54:56.930     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <275633851120083360> 20/05/2022 12:54:57.040     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <275633851120083360> 20/05/2022 12:54:57.857     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <275633851120083360> 20/05/2022 12:54:58.582     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <275633851120083360> 20/05/2022 12:55:00.151     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <275633851120083360> 20/05/2022 12:55:04.465     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <275633851120083360> 20/05/2022 12:55:08.837     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <476068628662796160> 20/05/2022 13:32:22.764     [Error  ] - Insira uma descrição
+ <303470574869264512> 20/05/2022 13:38:59.748     [Error  ] - Insira uma descrição
+ <175858833259419968> 20/05/2022 13:40:07.486     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <175858833259419968> 20/05/2022 13:40:12.372     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <175858833259419968> 20/05/2022 13:40:15.510     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <175858833259419968> 20/05/2022 13:40:20.164     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <175858833259419968> 20/05/2022 13:40:20.804     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <175858833259419968> 20/05/2022 13:40:21.341     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <175858833259419968> 20/05/2022 13:40:24.925     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <175858833259419968> 20/05/2022 13:40:25.598     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <175858833259419968> 20/05/2022 13:40:26.381     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <175858833259419968> 20/05/2022 13:40:26.606     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <4990819339889890> 20/05/2022 13:51:35.347     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <4990819339889890> 20/05/2022 13:51:40.284     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <4990819339889890> 20/05/2022 13:51:40.689     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <4990819339889890> 20/05/2022 13:51:48.296     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <4990819339889890> 20/05/2022 13:51:48.880     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <4990819339889890> 20/05/2022 13:51:49.354     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <4990819339889890> 20/05/2022 13:51:57.766     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <4990819339889890> 20/05/2022 13:51:58.246     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <4990819339889890> 20/05/2022 13:51:58.590     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <4990819339889890> 20/05/2022 13:51:58.774     [Error  ] - Duplicate index, data source: Setores, Program: "Cadastro Setores".
+ <18783200648633228> 20/05/2022 13:52:57.749     [Error  ] - Insira um nome
+ <-1> 20/05/2022 16:08:52.608     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 20/05/2022 16:09:06.775     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <303322401350613696> 23/05/2022 13:55:24.232     [Error  ] - Insira um nome
+ <390651564655724416> 23/05/2022 14:05:37.565     [Error  ] - Insira um nome
+ <390651564655724416> 23/05/2022 14:05:39.640     [Error  ] - Insira um nome
+ <128409194386050800> 23/05/2022 14:06:00.533     [Error  ] - Insira um nome
+ <128409194386050800> 23/05/2022 14:06:10.767     [Error  ] - Insira um nome
+ <308681721042319616> 23/05/2022 14:07:49.852     [Error  ] - Insira um nome
+ <308681721042319616> 23/05/2022 14:07:52.331     [Error  ] - Insira um nome
+ <316769866944626944> 23/05/2022 15:44:46.575     [Error  ] - Insira um nome
+ <316769866944626944> 23/05/2022 15:44:54.076     [Error  ] - Insira um nome
+ <316769866944626944> 23/05/2022 15:45:07.482     [Error  ] - Insira um nome
+ <56379046790929184> 23/05/2022 15:52:52.539     [Error  ] - Insira uma descrição
+ <527401791150337664> 23/05/2022 16:09:10.082     [Error  ] - [MgGui.dll] in Field.initElements(): size must be greater than zero, Program: "Relatório.Pesquisa Pessoas".
+ <527401791150337664> 23/05/2022 16:09:10.160     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.data.FieldDef.setAttribute(String attribute, String valueStr)
+   em com.magicsoftware.unipaas.management.data.FieldDef.initElements(List`1 tokensVector)
+   em com.magicsoftware.unipaas.management.data.FieldDef.fillData()
+   em com.magicsoftware.rte.data.FieldsTable.initField(DataViewBase dataview)
+   em com.magicsoftware.unipaas.management.data.FieldsTable.initInnerObjects(String foundTagName, DataViewBase dataview)
+   em com.magicsoftware.unipaas.management.data.FieldsTable.fillData(DataViewBase dataview)
+   em com.magicsoftware.unipaas.management.data.DataViewBase.fillHeaderData()
+   em com.magicsoftware.unipaas.management.tasks.TaskBase.initInnerObjects(String foundTagName, MgFormBase parentForm)
+   em com.magicsoftware.rte.tasks.Task.FillData(MgFormBase parentFrom)
+   em com.magicsoftware.rte.tasks.TasksManager.InitInnerObjects(String currTagName, Int64 contextID, MgFormBase parentForm, Task& task)
+   em com.magicsoftware.rte.tasks.TasksManager.fillData(Int64 contextID, String xmlData, MgFormBase parentForm)
+   em com.magicsoftware.rte.RteExecutor.OpenTask(Double contextID, String xmlData, Int32 parentFormTskID, Int32 triggeringParentTaskID)
+   em RteExecutorEndpoint.OpenTask(Double contextID, String content, Int32 parentTskID, Int32 triggeringTaskID)
+   em RteExecutorBridge.OpenTask(RteExecutorBridge* , Double contextID, UInt16* content, Int32 parentFormTskID, Int32 triggeringTaskID)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Relatório.Pesquisa Pessoas".
+ <527401791150337664> 23/05/2022 16:09:15.157     [Error  ] - [MgGui.dll] in Field.initElements(): size must be greater than zero, Program: "Relatório.Pesquisa Pessoas".
+ <527401791150337664> 23/05/2022 16:09:15.158     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.data.FieldDef.setAttribute(String attribute, String valueStr)
+   em com.magicsoftware.unipaas.management.data.FieldDef.initElements(List`1 tokensVector)
+   em com.magicsoftware.unipaas.management.data.FieldDef.fillData()
+   em com.magicsoftware.rte.data.FieldsTable.initField(DataViewBase dataview)
+   em com.magicsoftware.unipaas.management.data.FieldsTable.initInnerObjects(String foundTagName, DataViewBase dataview)
+   em com.magicsoftware.unipaas.management.data.FieldsTable.fillData(DataViewBase dataview)
+   em com.magicsoftware.unipaas.management.data.DataViewBase.fillHeaderData()
+   em com.magicsoftware.unipaas.management.tasks.TaskBase.initInnerObjects(String foundTagName, MgFormBase parentForm)
+   em com.magicsoftware.rte.tasks.Task.FillData(MgFormBase parentFrom)
+   em com.magicsoftware.rte.tasks.TasksManager.InitInnerObjects(String currTagName, Int64 contextID, MgFormBase parentForm, Task& task)
+   em com.magicsoftware.rte.tasks.TasksManager.fillData(Int64 contextID, String xmlData, MgFormBase parentForm)
+   em com.magicsoftware.rte.RteExecutor.OpenTask(Double contextID, String xmlData, Int32 parentFormTskID, Int32 triggeringParentTaskID)
+   em RteExecutorEndpoint.OpenTask(Double contextID, String content, Int32 parentTskID, Int32 triggeringTaskID)
+   em RteExecutorBridge.OpenTask(RteExecutorBridge* , Double contextID, UInt16* content, Int32 parentFormTskID, Int32 triggeringTaskID)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Relatório.Pesquisa Pessoas".
+ <527401791150337664> 23/05/2022 16:09:24.054     [Error  ] - [MgGui.dll] in Field.initElements(): size must be greater than zero, Program: "Relatório.Pesquisa Pessoas".
+ <527401791150337664> 23/05/2022 16:09:24.078     [Error  ] - [MgGui.dll] 
+   em System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   em System.Environment.get_StackTrace()
+   em com.magicsoftware.rte.CoreExecutor.WriteExceptionToLog(Int64 contextID, String msg)
+   em com.magicsoftware.rte.GuiEventsProcessor.WriteExceptionToLog(String message)
+   em com.magicsoftware.unipaas.Events.WriteExceptionToLog(String msg)
+   em com.magicsoftware.unipaas.management.data.FieldDef.setAttribute(String attribute, String valueStr)
+   em com.magicsoftware.unipaas.management.data.FieldDef.initElements(List`1 tokensVector)
+   em com.magicsoftware.unipaas.management.data.FieldDef.fillData()
+   em com.magicsoftware.rte.data.FieldsTable.initField(DataViewBase dataview)
+   em com.magicsoftware.unipaas.management.data.FieldsTable.initInnerObjects(String foundTagName, DataViewBase dataview)
+   em com.magicsoftware.unipaas.management.data.FieldsTable.fillData(DataViewBase dataview)
+   em com.magicsoftware.unipaas.management.data.DataViewBase.fillHeaderData()
+   em com.magicsoftware.unipaas.management.tasks.TaskBase.initInnerObjects(String foundTagName, MgFormBase parentForm)
+   em com.magicsoftware.rte.tasks.Task.FillData(MgFormBase parentFrom)
+   em com.magicsoftware.rte.tasks.TasksManager.InitInnerObjects(String currTagName, Int64 contextID, MgFormBase parentForm, Task& task)
+   em com.magicsoftware.rte.tasks.TasksManager.fillData(Int64 contextID, String xmlData, MgFormBase parentForm)
+   em com.magicsoftware.rte.RteExecutor.OpenTask(Double contextID, String xmlData, Int32 parentFormTskID, Int32 triggeringParentTaskID)
+   em RteExecutorEndpoint.OpenTask(Double contextID, String content, Int32 parentTskID, Int32 triggeringTaskID)
+   em RteExecutorBridge.OpenTask(RteExecutorBridge* , Double contextID, UInt16* content, Int32 parentFormTskID, Int32 triggeringTaskID)
+   em CoreExecutorEndpoint.EventsLoop()
+   em CoreExecutorGateway.EventsLoop()
+   em com.magicsoftware.rte.RTEmanager.ExecuteWorkThread()
+   em System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Threading.ThreadHelper.ThreadStart(), Program: "Relatório.Pesquisa Pessoas".
+ <-1> 23/05/2022 16:19:06.573     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 23/05/2022 16:19:21.031     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
