@@ -40,4 +40,4 @@ Atividade de desafio realizado na plataforma Magic XPA. Proposto no CIGAM DEVs, 
 
 <br>
 
-2022
+:date: 2022
