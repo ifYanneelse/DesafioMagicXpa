@@ -1,7 +1,7 @@
 # Desafio no MagicXpa
 Atividade de desafio realizado na plataforma Magic XPA. Proposto no CIGAM DEVs, da CIGAM. :hourglass_flowing_sand:
 
-### Foi realizado:
+### Funcionalidades:
 - [x] Tabelas
 - [x] Cadastros para Pessoas e Setores
 - [x] Telas de pesquisa para Pessoas e Setores
