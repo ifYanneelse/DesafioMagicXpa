@@ -1,7 +1,7 @@
 # Desafio no MagicXpa
 Atividade de desafio realizado na plataforma Magic XPA. Proposto no CIGAM DEVs, da CIGAM. :hourglass_flowing_sand:
 
-### Criar:
+### Foi realizado:
 - [x] Tabelas
 - [x] Cadastros para Pessoas e Setores
 - [x] Telas de pesquisa para Pessoas e Setores
@@ -34,7 +34,7 @@ Atividade de desafio realizado na plataforma Magic XPA. Proposto no CIGAM DEVs, 
 - Richard Iracet Alves Rodrigues
 - Yanne Roberto
 
-<br>
+#
 
 ##### :orange_circle: Cigam DEVs
 
